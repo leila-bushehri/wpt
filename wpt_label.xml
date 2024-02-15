@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ESLInterchangeFormat SYSTEM "wpt_label_dtd.xml">
+<ESLInterchangeFormat>
+    <Timestamp>TIMESTAMP</Timestamp>
+    <Data>
+        <Command>LABEL_UPDATE</Command>
+        <LabelId>LABEL_ID</LabelId>
+        <ArtikelNrPSLos>ARTIKEL_NR_PS_LOS</ArtikelNrPSLos>
+        <DMC>DMC</DMC>
+        <Kunde>KUNDE</Kunde>
+        <Panel>PANEL</Panel>
+    </Data>
+</ESLInterchangeFormat>

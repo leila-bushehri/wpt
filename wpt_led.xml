@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ESLInterchangeFormat SYSTEM "wpt_led_dtd.xml">
+<ESLInterchangeFormat>
+    <Timestamp>TIMESTAMP</Timestamp>
+    <Data>
+        <Command>BLINK_LED</Command>
+        <LEDSettings>
+            <LabelId>LABEL_ID</LabelId>
+            <Color>COLOR</Color>
+            <Duration>DURATION</Duration>
+            <PatternId>PATERN_ID</PatternId>
+        </LEDSettings>
+    </Data>
+</ESLInterchangeFormat>
